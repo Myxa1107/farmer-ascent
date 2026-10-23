@@ -1,0 +1,15 @@
+local placeID = game.PlaceId
+
+print("PlaceID: ".. placeID)
+
+if placeID == 82437948429564 then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/Myxa1107/farmer-ascent/refs/heads/main/PhoneDestruction"))()
+else
+	game:GetService("StarterGui")
+		:SetCore("SendNotification", {
+			Title = "farmer's ascent",
+			Text = "your game is unsupported :(",
+			Duration = 5,
+			Button1 = "close"
+		})
+end
