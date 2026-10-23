@@ -1,6 +1,8 @@
 # farmer's ascent
-Farming scripts for Roblox's experience.
+Farming script for Roblox's experience.
+# Loader:
 ```
 123
 ```
-sad
+# Supported games:
+🧪Realistic Phone Drop Test
