@@ -2,7 +2,7 @@
 Farming script for Roblox's experience.
 # Loader:
 ```
-123
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Myxa1107/farmer-ascent/refs/heads/main/Loader"))()
 ```
 # Supported games:
 🧪Realistic Phone Drop Test
